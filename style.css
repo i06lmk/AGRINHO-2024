@@ -1,6 +1,6 @@
 .menu-h ul{
   list-style: none;
-  padding: 0 0;
+  padding: 0 30%;
   background-color: #2E8B57;   
 }
 
@@ -9,7 +9,7 @@
 }
 
 .menu-h ul li a{
-  color: #90EE90;
+  color: 	#F0FFF0;
   padding: 10px;
   display: inline-block;
   justify-items: center;
