@@ -1,6 +1,6 @@
 .menu-h ul{
   list-style: none;
-  padding: 0 20%;
+  padding: 0 30%;
   background-color: #2E8B57;   
 }
 
@@ -12,7 +12,6 @@
   color: 	#F0FFF0;
   padding: 10px;
   display: inline-block;
-  justify-items: center;
   text-decoration: none;
   transition: background , 2s; 
 }
