@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #FAFAD2;
   box-sizing: border-box;
 }
 
@@ -34,7 +34,7 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  color:#333;
+  color:#f4f4f4;
   padding: 14px 20px;
   text-decoration: none;
 }
@@ -103,11 +103,11 @@ footer {
 
 .flip-card-front {
   background-color: #28a745;
-  color: white;
+  color: #90EE90;
 }
 
 .flip-card-back {
-  background-color: #f4f4f4;
+  background-color: #90EE90;
   color: black;
   transform: rotateY(180deg);
   justify-content: center;
