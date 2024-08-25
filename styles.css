@@ -25,7 +25,7 @@ nav ul {
   padding: 0;
   display: flex;
   justify-content: center;
-  background-color:	#32CD32;
+  background-color:	#90EE90;
 }
 
 nav ul li {
@@ -34,7 +34,7 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  color: white;
+  color:#98FB98;
   padding: 14px 20px;
   text-decoration: none;
 }
@@ -48,7 +48,7 @@ main {
 }
 
 h1, h2 {
-  color: #333;
+  color: #90EE90;
 }
 
 .content-section {
@@ -63,7 +63,7 @@ h1, h2 {
 }
 
 footer {
-  background-color: #32CD32;
+  background-color: #90EE90;
   color: white;
   text-align: center;
   padding: 10px;
